@@ -1,7 +1,7 @@
 {
   "name": "Toffee App All Channel Link with Headers",
   "owner": "Team RXS \nTelegram: https://t.me/teamrxs\nGithub:https://github.com/binod-xd",
-  "channels_amount": 129,
+  "channels_amount": 131,
   "updated_on": "06-01-2024 on 12:33:44 PM \ud83c\udf1e",
   "channels": [
     {
@@ -133,6 +133,28 @@
         "accept-encoding": "gzip"
       },
       "logo": "https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_682155001703738032.png"
+    },
+    {
+      "category_name": "Sports",
+      "name": "T Sports Live 2",
+      "logo": "https://image.tsports.com/images/contents/thumbnail/261/ts-live-02.jpeg",
+      "link": "https://live-cdn.tsports.com/live-02/index.m3u8",
+      "headers": {
+        "Cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1704575425:KeyName=tsports-ed25519-01:Signature=hHh0dugeeAz3GjPrrHskatjnPJ2z3BYRlUZhy7-yNFTUY4MXSIhZtEthCYqR2V3H19hKwMb5R_LqfdWldYD3AQ",
+        "Host": "live-cdn.tsports.com",
+        "User-agent": "https://github.com/byte-capsule (Linux;Android 14)"
+      }
+    },
+    {
+      "category_name": "Sports",
+      "name": "T Sports Live 1",
+      "logo": "https://image.tsports.com/images/contents/thumbnail/691/mobile_logo_LIVE(1)_64e4dd8e16430.jpg",
+      "link": "https://live-cdn.tsports.com/live-01/index.m3u8",
+      "headers": {
+        "Cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1704575425:KeyName=tsports-ed25519-01:Signature=hHh0dugeeAz3GjPrrHskatjnPJ2z3BYRlUZhy7-yNFTUY4MXSIhZtEthCYqR2V3H19hKwMb5R_LqfdWldYD3AQ",
+        "Host": "live-cdn.tsports.com",
+        "User-agent": "https://github.com/byte-capsule (Linux;Android 14)"
+      }
     },
     {
       "category_name": "Sports",
