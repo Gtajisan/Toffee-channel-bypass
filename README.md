@@ -1,11 +1,36 @@
+<p align="center">
+<a href="#"><img title="Made in BANGLADESH" src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-SCRIPT?colorA=%23ff0000&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
+</p>
+<p align="center">
+<a href="#"><img title="Tool Name" src="https://img.shields.io/badge/TOFFEE CHANNEL-LINK-green.svg"></a>
+<a href="#"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
+</p>
+</p>
+<p align="center">
+<a href="https://github.com/BINOD-XD"><img title="Github" src="https://img.shields.io/badge/BINOD-XD-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://gmail.google.com/gmail/?view=cm&fs=1&to=riyadhossainshanto5@gmail.com"><img title="Gmail" src="https://img.shields.io/badge/Gmail-Reyad Hossain-green?style=for-the-badge&logo=Gmail"></a>
+</p>
+<p align="center">
+<a href="https://github.com/BINOD-XD"><img title="Followers" src="https://img.shields.io/github/followers/BINOD-XD?color=blue&style=flat-square"></a>
+<a href="https://github.com/BINOD-XD"><img title="Stars" src="https://img.shields.io/github/stars/BINOD-XD/Toffee-Channels-Link?color=red&style=flat-square"></a>
+<a href="https://github.com/BINOD-XD"><img title="Forks" src="https://img.shields.io/github/forks/BINOD-XD/Toffee-Channels-Link?color=red&style=flat-square"></a>
+<a href="https://github.com/BINOD-XD"><img title="Watching" src="https://img.shields.io/github/watchers/BINOD-XD/Toffee-Channels-Link?label=Watchers&color=blue&style=flat-square"></a>
 
+<p align="center">  
+<a href="#"><img title="Language" src="https://img.shields.io/badge/Language-black?style=for-the-badge&logo=termux"></a>
+</p>
 
+<p align="center">
+ <img src="https://img.shields.io/badge/Python-FFDD00?style=for-the-badge&logo=python&logoColor=blue"/>
+ </div>
+</p>
+<p align="center">  <a href="https://t.me/teamrxs"><img width="160" height="50" src="https://i.imgur.com/N7AK7XY.png"></a></p>
 
 
 
 <h1 align="center">
   <br>
-  <a href="https://play.google.com/store/apps/details?id=com.banglalink.toffee"><img src="https://github.com/Jeshan-akand/Toffee-Channels-Link-Headers/blob/main/images/toffee_logo.jpeg" alt="🔥 Toffee 🔥" width="200"></a>
+  <a href="https://play.google.com/store/apps/details?id=com.banglalink.toffee"><img src="https://github.com/BINOD-XD/Toffee-Channels-Link/blob/main/images/toffee_logo.jpeg" alt="🔥 Toffee 🔥" width="200"></a>
   <br>
   🔥 Toffee 🔥
   <br>
@@ -13,30 +38,15 @@
 
 <h2 align="center">A Script to trigger the GitHub Actions every day to update the Toffee App Channels Link and Cookie </h2>
 
-<p align="center">
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Made_With-Python_3.12%2B-blue"
-         alt="Gitter">
-  
-  <a href="https://saythanks.io/to/bullredeyes@gmail.com">
-      <img src="https://img.shields.io/badge/Byte_Capsule-%E2%98%BC-green.svg">
-  </a>
-  <a href="https://play.google.com/store/apps/details?id=com.banglalink.toffee">
-    <img src="https://img.shields.io/badge/App-Toffe_Live-purple">
-  </a>
-  </a>
-  <a href="https://gitter.im/amitmerchant1990/electron-markdownify"><img src="https://img.shields.io/badge/Made%20in-Bangladesh_🇧🇩-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square"></a>
-</p>
-
 <h1 align="center">
  <a href="https://play.google.com/store/apps/details?id=com.banglalink.toffee"><img src="https://github.com/Jeshan-akand/Toffee-Channels-Link-Headers/blob/main/images/banner.jpeg"></a>
 </h1>
 
-# 📒Introdicton 
+## 📒 ABOUT TOOL : 
 * [Toffee](https://play.google.com/store/apps/details?id=com.banglalink.toffee) Live is the number 1 entertainment app in Bangladesh, boasting over 10 million downloads on the Google Play Store.
 
 
-# 💥Key Features
+## 💥Key Features
 
 * All The Channel Links and Cookies Are Updated Every 30 Minutes
 * Premium Channels Are Also Working
@@ -46,9 +56,9 @@
 
 
 
-# 🕹️How To Use
+## 🕹️How To Use
 **For Developers**
-* 👉 **[Auto Updated Channels Json File](https://raw.githubusercontent.com/Jeshan-akand/Toffee-Channels-Link-Headers/main/toffee_channel_data.json)**
+* 👉 **[Auto Updated Channels Json File](https://raw.githubusercontent.com/BINOD-XD/Toffee-Channels-Link/main/toffee_channel_data.json)**
 * Use Get Request
 
 
@@ -57,7 +67,7 @@
 ```python
 import requests
 #Get updated the Link and Headers 
-link="https://raw.githubusercontent.com/Jeshan-akand/Toffee-Channels-Link-Headers/main/toffee_channel_data.json"
+link="https://raw.githubusercontent.com/BINOD-XD/Toffee-Channels-Link/main/toffee_channel_data.json"
 request=requests.get(link).json()
 
 name=request["name"]
@@ -100,56 +110,46 @@ print("✓ Response From Toffee Server : "+request_server.text)
 
 > [Program finished]
 <h1 align="center">
- <a href="https://github.com/Jeshan-akand/Toffee-Channels-Link-Headers/blob/main/toffee_channel_data.json"><img src="https://github.com/Jeshan-akand/Toffee-Channels-Link-Headers/blob/main/images/json_file.jpg"></a>
+ <a href="https://github.com/BINOD-XD/Toffee-Channels-Link/blob/main/toffee_channel_data.json"><img src="https://github.com/BINOD-XD/Toffee-Channels-Link/blob/main/images/json_file.jpg"></a>
 </h1>
 
 # 🎬How To Play
 **📱Android**
 * Use Network Stream Player [Download](https://play.google.com/store/apps/details?id=com.genuine.leone)
-* Add This PlayList [Playlist Link](https://raw.githubusercontent.com/Jeshan-akand/Toffee-Channels-Link-Headers/main/toffee_NS_Player.m3u)
+* Add This PlayList [Playlist Link](https://raw.githubusercontent.com/BINOD-XD/Toffee-Channels-Link/main/toffee_NS_Player.m3u)
 *  Enjoy 😊
 
 **🖥️ Android TV**
 * Use OTT Navigator [Download](https://apkpure.com/ott-navigator-iptv/studio.scillarium.ottnavigator/amp)
-* Add This PlayList [Playlist Link](https://raw.githubusercontent.com/Jeshan-akand/Toffee-Channels-Link-Headers/main/toffee_OTT_Navigator.m3u)
+* Add This PlayList [Playlist Link](https://raw.githubusercontent.com/BINOD-XD/Toffee-Channels-Link/main/toffee_OTT_Navigator.m3u)
 *  Enjoy 😊
 
 <h1 align="center">
- <a href="https://github.com/Jeshan-akand/Toffee-Channels-Link-Headers/blob/main/toffee_channel_data.json"><img src="https://github.com/Jeshan-akand/Toffee-Channels-Link-Headers/blob/main/images/ns_player.jpg"></a>
+ <a href="https://github.com/BINOD-XD/Toffee-Channels-Link/blob/main/toffee_channel_data.json"><img src="https://github.com/BINOD-XD/Toffee-Channels-Link/blob/main/images/ns_player.jpg"></a>
 </h1>
 <h1 align="center">
- <a href="https://github.com/Jeshan-akand/Toffee-Channels-Link-Headers/blob/main/toffee_channel_data.json"><img src="https://github.com/Jeshan-akand/Toffee-Channels-Link-Headers/blob/main/images/ott_view.jpg"></a>
+ <a href="https://github.com/BINOD-XD/Toffee-Channels-Link/blob/main/toffee_channel_data.json"><img src="https://github.com/BINOD-XD/Toffee-Channels-Link/blob/main/images/ott_view.jpg"></a>
 </h1>
 
+## CONNECT WITH US :
 
-# 🚬Credits
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=FF2C10&background=31FF9400&width=400&lines=Made+By+Byte+Capsule)](https://git.io/typing-svg)
+[![Messenger](https://img.shields.io/badge/Messenger-Chat-blue?style=for-the-badge&logo=messenger)](https://m.me/j/AbZltMIVrGlcZi6j/)
+<a href="https://github.com/BINOD-XD"><img title="Github" src="https://img.shields.io/badge/BINOD-XD-brightgreen?style=for-the-badge&logo=github"></a>
+[![Instagram](https://img.shields.io/badge/FACEBOOK-FOLLOW-red?style=for-the-badge&logo=facebook)](https://facebook.com/reyadbross)
+[![Instagram](https://img.shields.io/badge/FACEBOOK-FOLLOW-red?style=for-the-badge&logo=facebook)](https://facebook.com/tahosin.broos)
+[![Instagram](https://img.shields.io/badge/WHATSAPP-CHAT-red?style=for-the-badge&logo=whatsapp)](https://wa.me/+8801989861704)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/reyadbros)
+[![Instagram](https://img.shields.io/badge/WEBSITE-VISIT-yellow?style=for-the-badge&logo=blogger)](https://BINOD-XD.github.io)
+[![Instagram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://t.me/shanto27)
 
-*🥰 Thanks:
+#### 💰YOU CAN HELP ME BY DONATING
+<p align="center">
 
-- [Pydorid 3](http://electron.atom.io/)
-- [Termux](https://nodejs.org/)
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/binodxd) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/binodxd) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/binodxd) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/binodxd)</a>
+</p>
 
+# Acknowledgements
+## Special Thanks <span style='font-size:45px;'>&#128071;</span>
+<a href="#"><img title="Reyad X Shipu" src="https://img.shields.io/badge/Reyad X Shipu-black?style=for-the-badge&logo=Reyad X Shipu"></a>
+## Thanks For Using This Tool <span style='font-size:45px;'>&#128536;</span> <span style='font-size:45px;'>&#128525;</span>
 
-
-
-
-
-# 💰Support
-
-<a href="https://github.com/byte-capsule/" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-
-
-
-
-# ✉️Find Me on 
-
-- [![Github](https://img.shields.io/badge/Github-Byte_Capsule-purple?style=for-the-badge&logo=github)](https://github.com/byte-capsule)
-
-- [![Gmail](https://img.shields.io/badge/Gmail-Byte_Capsule-green?style=for-the-badge&logo=gmail)](mailto:jeshanakand2017@gmail.com)
-
-- [![Facebook](https://img.shields.io/badge/Facebook-Jeshan_Akand-blue?style=for-the-badge&logo=facebook)](https://t.me/J_9X_H_9X_N)
-
-- [![Messenger](https://img.shields.io/badge/Messenger-Jeshan_Akand-orange?style=for-the-badge&logo=messenger)](https://t.me/J_9X_H_9X_N)
-
-- [![Telegram](https://img.shields.io/badge/Telegram-Byte_Capsule-indigo?style=for-the-badge&logo=telegram)](https://t.me/J_9X_H_9X_N)
