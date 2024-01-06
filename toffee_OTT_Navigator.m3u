@@ -6,7 +6,7 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bangla/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1704675019:KeyName=prod_linear:Signature=xFWTFlIue0A9q3_GKGF-KU2TfNRi1PkOOaVosSg2EkndTaFnXdr-vt-q3XLpEDCcyVSy1uGhL-IlKccoWKeCBA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/star_jalsha/playlist.m3u8
-#EXTINF:-1 group-title="Popular TV Channels" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/65/logo/240x240/mobile_logo_703286001655891016.png", Somoy TV
+#EXTINF:-1 group-title="Bangladeshi News" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/65/logo/240x240/mobile_logo_703286001655891016.png", Somoy TV
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1704675019:KeyName=prod_linear:Signature=xFWTFlIue0A9q3_GKGF-KU2TfNRi1PkOOaVosSg2EkndTaFnXdr-vt-q3XLpEDCcyVSy1uGhL-IlKccoWKeCBA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/somoy_tv/playlist.m3u8
