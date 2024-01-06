@@ -39,11 +39,11 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/colors_b/playlist.m3u8
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1704675019:KeyName=prod_linear:Signature=xFWTFlIue0A9q3_GKGF-KU2TfNRi1PkOOaVosSg2EkndTaFnXdr-vt-q3XLpEDCcyVSy1uGhL-IlKccoWKeCBA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sports_highlights/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/contents/thumbnail/261/ts-live-02.jpeg", T Sports Live 2
-#EXTVLCOPT:http-user-agent=https://github.com/byte-capsule (Linux;Android 14)
+#EXTVLCOPT:http-user-agent=https://github.com/BINOD-XD (Linux;Android 14)
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1704575425:KeyName=tsports-ed25519-01:Signature=hHh0dugeeAz3GjPrrHskatjnPJ2z3BYRlUZhy7-yNFTUY4MXSIhZtEthCYqR2V3H19hKwMb5R_LqfdWldYD3AQ"}
 https://live-cdn.tsports.com/live-02/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/contents/thumbnail/691/mobile_logo_LIVE(1)_64e4dd8e16430.jpg", T Sports Live 1
-#EXTVLCOPT:http-user-agent=https://github.com/byte-capsule (Linux;Android 14)
+#EXTVLCOPT:http-user-agent=https://github.com/BINOD-XD (Linux;Android 14)
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1704575425:KeyName=tsports-ed25519-01:Signature=hHh0dugeeAz3GjPrrHskatjnPJ2z3BYRlUZhy7-yNFTUY4MXSIhZtEthCYqR2V3H19hKwMb5R_LqfdWldYD3AQ"}
 https://live-cdn.tsports.com/live-01/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/2418/logo/240x240/mobile_logo_992280001666781086.png", SONY SPORTS TEN 3 HD
