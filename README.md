@@ -58,7 +58,7 @@
 
 ## 🕹️How To Use
 **For Developers**
-* 👉 **[Auto Updated Channels Json File](https://raw.githubusercontent.com/BINOD-XD/Toffee-Channels-Link/main/toffee_channel_data.json)**
+* 👉 **[Auto Updated Channels Json File](https://raw.githubusercontent.com/Gtajisan/Toffee-channel-bypass/main/toffee_channel_data.json)**
 * Use Get Request
 
 
