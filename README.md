@@ -67,7 +67,7 @@
 ```python
 import requests
 #Get updated the Link and Headers 
-link="https://raw.githubusercontent.com/BINOD-XD/Toffee-Channels-Link/main/toffee_channel_data.json"
+link="https://raw.githubusercontent.com/Gtajisan/Toffee-channel-bypass/main/toffee_channel_data.json"
 request=requests.get(link).json()
 
 name=request["name"]
@@ -110,7 +110,7 @@ print("✓ Response From Toffee Server : "+request_server.text)
 
 > [Program finished]
 <h1 align="center">
- <a href="https://raw.githubusercontent.com/BINOD-XD/Toffee-Channels-Link/main/toffee_channel_data.json"><img src="https://github.com/BINOD-XD/Toffee-Channels-Link/blob/main/images/json_file.jpg"></a>
+ <a href="https://raw.githubusercontent.com/Gtajisan/Toffee-channel-bypass/main/toffee_channel_data.json"><img src="https://github.com/BINOD-XD/Toffee-Channels-Link/blob/main/images/json_file.jpg"></a>
 </h1>
 
 # 🎬How To Play
