@@ -121,7 +121,7 @@ print("✓ Response From Toffee Server : "+request_server.text)
 
 **🖥️ Android TV**
 * Use OTT Navigator [Download](https://apkpure.com/ott-navigator-iptv/studio.scillarium.ottnavigator/amp)
-* Add This PlayList [Playlist Link](https://raw.githubusercontent.com/BINOD-XD/Toffee-Channels-Link/main/toffee_OTT_Navigator.m3u)
+* Add This PlayList [Playlist Link](https://raw.githubusercontent.com/Gtajisan/Toffee-channel-bypass/main/toffee_OTT_Navigator.m3u)
 *  Enjoy 😊
 
 <h1 align="center">
