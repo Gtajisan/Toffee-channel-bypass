@@ -125,10 +125,10 @@ print("✓ Response From Toffee Server : "+request_server.text)
 *  Enjoy 😊
 
 <h1 align="center">
- <a href="https://raw.githubusercontent.com/Gtajisan/Toffee-channel-bypass/main/toffee_channel_data.json"><img src="https://github.com/BINOD-XD/Toffee-Channels-Link/blob/main/images/ns_player.jpg"></a>
+ <a href="https://raw.githubusercontent.com/Gtajisan/Toffee-channel-bypass/main/toffee_channel_data.json"><img src="https://github.com/Gtajisan/Toffee-channel-bypass/blob/main/images/ns_player.jpg"></a>
 </h1>
 <h1 align="center">
- <a href="https://raw.githubusercontent.com/Gtajisan/Toffee-channel-bypass/main/toffee_channel_data.json"><img src="https://github.com/BINOD-XD/Toffee-Channels-Link/blob/main/images/ott_view.jpg"></a>
+ <a href="https://raw.githubusercontent.com/Gtajisan/Toffee-channel-bypass/main/toffee_channel_data.json"><img src="https://github.com/Gtajisan/Toffee-channel-bypass/blob/main/images/ott_view.jpg"></a>
 </h1>
 
 ## CONNECT WITH US :
