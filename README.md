@@ -152,7 +152,9 @@ print("✓ Response From Toffee Server : "+request_server.text)
 ## Special Thanks <span style='font-size:45px;'>&#128071;</span>
 <a href="#"><img title="FARHAN-MUH-TASIM" src="https://img.shields.io/badge/FARHAN MUH TASIM-black?style=for-the-badge&logo=FARHAN MUH TASIM"></a>
 ## Thanks For Using This Tool <span style='font-size:45px;'>&#128536;</span> <span style='font-size:45px;'>&#128525;</span>
-### thanks for these topics tool create 
+### thanks for these topics and supported 💖🤧
 - `Reyad X Shipu`
 - `Binod-xd`
+- `gtajisan`
+- `🤧🤧🤧`
 
