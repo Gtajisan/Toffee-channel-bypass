@@ -2,19 +2,19 @@
 <a href="#"><img title="Made in BANGLADESH" src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-SCRIPT?colorA=%23ff0000&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="#"><img title="Tool Name" src="https://img.shields.io/badge/TOFFEE CHANNEL-LINK-green.svg"></a>
+<a href="#"><img title="Tool Name" src="https://img.shields.io/badge/Toffee-channel-bypass-green.svg"></a>
 <a href="#"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
 </p>
 </p>
 <p align="center">
-<a href="https://github.com/BINOD-XD"><img title="Github" src="https://img.shields.io/badge/BINOD-XD-brightgreen?style=for-the-badge&logo=github"></a>
-<a href="https://gmail.google.com/gmail/?view=cm&fs=1&to=riyadhossainshanto5@gmail.com"><img title="Gmail" src="https://img.shields.io/badge/Gmail-Reyad Hossain-green?style=for-the-badge&logo=Gmail"></a>
+<a href="https://github.com/Gtajsan"><img title="Github" src="https://img.shields.io/badge/BINOD-XD-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://gmail.google.com/gmail/?view=cm&fs=1&to=ffjisan804@gmail.com"><img title="Gmail" src="https://img.shields.io/badge/Gmail-Reyad Hossain-green?style=for-the-badge&logo=Gmail"></a>
 </p>
 <p align="center">
-<a href="https://github.com/BINOD-XD"><img title="Followers" src="https://img.shields.io/github/followers/BINOD-XD?color=blue&style=flat-square"></a>
-<a href="https://github.com/BINOD-XD"><img title="Stars" src="https://img.shields.io/github/stars/BINOD-XD/Toffee-Channels-Link?color=red&style=flat-square"></a>
-<a href="https://github.com/BINOD-XD"><img title="Forks" src="https://img.shields.io/github/forks/BINOD-XD/Toffee-Channels-Link?color=red&style=flat-square"></a>
-<a href="https://github.com/BINOD-XD"><img title="Watching" src="https://img.shields.io/github/watchers/BINOD-XD/Toffee-Channels-Link?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Gtajisan"><img title="Followers" src="https://img.shields.io/github/followers/Gtajisan?color=blue&style=flat-square"></a>
+<a href="https://github.com/Gtajisan"><img title="Stars" src="https://img.shields.io/github/stars/Gtajisan/Toffee-channel-bypass?color=red&style=flat-square"></a>
+<a href="https://github.com/Gtajisan"><img title="Forks" src="https://img.shields.io/github/forks/Gtajisan/Toffee-channel-bypass?color=red&style=flat-square"></a>
+<a href="https://github.com/Gtajisan"><img title="Watching" src="https://img.shields.io/github/watchers/Gtajisan/Toffee-channel-bypass?label=Watchers&color=blue&style=flat-square"></a>
 
 <p align="center">  
 <a href="#"><img title="Language" src="https://img.shields.io/badge/Language-black?style=for-the-badge&logo=termux"></a>
