@@ -2,13 +2,13 @@
 <a href="#"><img title="Made in BANGLADESH" src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-SCRIPT?colorA=%23ff0000&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="#"><img title="Tool Name" src="https://img.shields.io/badge/Toffee-channel-bypass-green.svg"></a>
+<a href="#"><img title="Tool Name" src="https://img.shields.io/badge/Toffee channel bypass-green.svg"></a>
 <a href="#"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
 </p>
 </p>
 <p align="center">
-<a href="https://github.com/Gtajsan"><img title="Github" src="https://img.shields.io/badge/BINOD-XD-brightgreen?style=for-the-badge&logo=github"></a>
-<a href="https://gmail.google.com/gmail/?view=cm&fs=1&to=ffjisan804@gmail.com"><img title="Gmail" src="https://img.shields.io/badge/Gmail-Reyad Hossain-green?style=for-the-badge&logo=Gmail"></a>
+<a href="https://github.com/Gtajsan"><img title="Github" src="https://img.shields.io/badge/Gtajisan-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://gmail.google.com/gmail/?view=cm&fs=1&to=ffjisan804@gmail.com"><img title="Gmail" src="https://img.shields.io/badge/Gmail-FARHAN MUH TASIM-green?style=for-the-badge&logo=Gmail"></a>
 </p>
 <p align="center">
 <a href="https://github.com/Gtajisan"><img title="Followers" src="https://img.shields.io/github/followers/Gtajisan?color=blue&style=flat-square"></a>
