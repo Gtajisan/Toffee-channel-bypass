@@ -46,7 +46,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://play.google.com/store/apps/details?id=com.banglalink.toffee"><img src="https://i.postimg.cc/RFkMGfGD/banner.jpg" alt="🔥 Toffee 🔥" width="200"></a>
+  <a href="https://play.google.com/store/apps/details?id=com.banglalink.toffee"><img src="" alt="🔥 Toffee 🔥" width="200"></a>
   <br>
   🔥 Toffee 🔥
   <br>
