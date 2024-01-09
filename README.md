@@ -42,7 +42,7 @@
 <h2 align="center">A Script to trigger the GitHub Actions every day to update the Toffee App Channels Link and Cookie </h2>
 
 <h1 align="center">
- <a href="https://i.postimg.cc/pLKB1yDS/toffee-logo.jpg"><img src="![image](https://github.com/Gtajisan/Toffee-channel-bypass/assets/124022055/308b16cf-5017-4e1c-a649-4bc5acaf9195)src="" alt="🔥 Toffee 🔥" width="200"></a>
+ <a href="https://i.postimg.cc/pLKB1yDS/toffee-logo.jpg"><img src="![image](https://github.com/Gtajisan/Toffee-channel-bypass/assets/124022055/308b16cf-5017-4e1c-a649-4bc5acaf9195)src="alt="🔥 Toffee 🔥" width="200"></a>
   <br>
   🔥 Toffee 🔥
   <br>
