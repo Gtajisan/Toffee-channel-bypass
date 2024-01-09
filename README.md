@@ -43,7 +43,14 @@
 
 <h1 align="center">
  <a href="https://i.postimg.cc/pLKB1yDS/toffee-logo.jpg"><img src="![image](https://github.com/Gtajisan/Toffee-channel-bypass/assets/124022055/308b16cf-5017-4e1c-a649-4bc5acaf9195)"></a>
+</h1> src="" alt="🔥 Toffee 🔥" width="200"></a>
+  <br>
+  🔥 Toffee 🔥
+  <br>
 </h1>
+
+
+
 
 ## 📒 ABOUT TOOL : 
 * [Toffee](https://play.google.com/store/apps/details?id=com.banglalink.toffee) Live is the number 1 entertainment app in Bangladesh, boasting over 10 million downloads on the Google Play Store.
