@@ -39,19 +39,6 @@
 </h1>
 
 
-
-
-
-
-
-<h1 align="center">
-  <br>
-  <a href="https://play.google.com/store/apps/details?id=com.banglalink.toffee"><img src="" alt="🔥 Toffee 🔥" width="200"></a>
-  <br>
-  🔥 Toffee 🔥
-  <br>
-</h1>
-
 <h2 align="center">A Script to trigger the GitHub Actions every day to update the Toffee App Channels Link and Cookie </h2>
 
 <h1 align="center">
