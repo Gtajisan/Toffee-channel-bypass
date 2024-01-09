@@ -7,30 +7,6 @@
   <br>
 </h1>
 
-<h2 align="center">A Script to trigger the GitHub Actions every day to update the Toffee App Channels Link and Cookie </h2>
-
-<p align="center">
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Made_With-Python_3.12%2B-blue"
-         alt="Gitter">
-  
-  <a href="https://saythanks.io/to/bullredeyes@gmail.com">
-      <img src="https://img.shields.io/badge/Byte_Capsule-%E2%98%BC-green.svg">
-  </a>
-  <a href="https://play.google.com/store/apps/details?id=com.banglalink.toffee">
-    <img src="https://img.shields.io/badge/App-Toffe_Live-purple">
-  </a>
-  </a>
-  <a href="https://gitter.im/amitmerchant1990/electron-markdownify"><img src="https://img.shields.io/badge/Made%20in-Bangladesh_🇧🇩-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square"></a>
-</p>
-
-<h1 align="center">
- <a href="https://play.google.com/store/apps/details?id=com.banglalink.toffee"><img src="https://github.com/Jeshan-akand/Toffee-Channels-Link-Headers/blob/main/images/banner.jpeg"></a>
-</h1>
-
-
-
-
 <p align="center">
 <a href="#"><img title="Made in BANGLADESH" src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-SCRIPT?colorA=%23ff0000&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
@@ -58,6 +34,13 @@
  </div>
 </p>
 <p align="center">  <a href="https://t.me/teamrxs"><img width="160" height="50" src="https://i.imgur.com/N7AK7XY.png"></a></p>
+<h1 align="center">
+ <a href="https://play.google.com/store/apps/details?id=com.banglalink.toffee"><img src="https://github.com/Jeshan-akand/Toffee-Channels-Link-Headers/blob/main/images/banner.jpeg"></a>
+</h1>
+
+
+
+
 
 
 
