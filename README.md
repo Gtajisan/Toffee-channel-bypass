@@ -154,6 +154,5 @@ print("✓ Response From Toffee Server : "+request_server.text)
 ## Thanks For Using This Tool <span style='font-size:45px;'>&#128536;</span> <span style='font-size:45px;'>&#128525;</span>
 ### thanks for these topics and supported 💖🤧
 - `Reyad X Shipu`
-- `source code` [source](https://github.com/BINOD-XD/Toffee-Channels-Link) 
-
--`byte-capsul`  [source](https://github.com/byte-capsule/Toffee-Channels-Link-Headers)           
+- `source code` [source](https://github.com/BINOD-XD/Toffee-Channels-Link)
+- `byte-capsul`  [source](https://github.com/byte-capsule/Toffee-Channels-Link-Headers)           
