@@ -155,7 +155,4 @@ print("✓ Response From Toffee Server : "+request_server.text)
 ### thanks for these topics and supported 💖🤧
 - `Reyad X Shipu`
 - `source code` [source](https://github.com/BINOD-XD/Toffee-Channels-Link) 
-- `Binod-xd`
-- `gtajisan`
-- `🤧🤧` 
--`byte-capsul`[source](https://github.com/byte-capsule/Toffee-Channels-Link-Headers)           
+-`byte-capsul`  [source](https://github.com/byte-capsule/Toffee-Channels-Link-Headers)           
