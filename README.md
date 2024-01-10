@@ -126,12 +126,14 @@ print("✓ Response From Toffee Server : "+request_server.text)
 **📱Android**
 * Use Network Stream Player [Download](https://play.google.com/store/apps/details?id=com.genuine.leone)
 * Add This PlayList [Playlist Link](https://raw.githubusercontent.com/Gtajisan/Toffee-channel-bypass/main/toffee_NS_Player.m3u)
-*  Enjoy 😊
+* ADD 2 AND LNK   [NEW Link](https://raw.githubusercontent.com/Jeshan-akand/Toffee-Channels-Link-Headers/main/toffee_NS_Player.m3u)
+*  Enjoy 👀🙃
 
 **🖥️ Android TV**
 * Use OTT Navigator [Download](https://apkpure.com/ott-navigator-iptv/studio.scillarium.ottnavigator/amp)
 * Add This PlayList [Playlist Link](https://raw.githubusercontent.com/Gtajisan/Toffee-channel-bypass/main/toffee_OTT_Navigator.m3u)
-*  Enjoy 😊
+* ADD AA NEW Update [Playlist Link](https://raw.githubusercontent.com/Jeshan-akand/Toffee-Channels-Link-Headers/main/toffee_OTT_Navigator.m3u)
+*  Enjoy 👀🙃
 
 <h1 align="center">
  <a href="https://raw.githubusercontent.com/Gtajisan/Toffee-channel-bypass/main/toffee_channel_data.json"><img src="https://github.com/Gtajisan/Toffee-channel-bypass/blob/main/images/ns_player.jpg"></a>
