@@ -10,7 +10,6 @@
     "drmScheme": "",
     "drmLicense": ""
   },
-
   {
     "name": "T Sports Live 2",
     "link": "https://live-cdn.tsports.com/live-02/index.m3u8",
@@ -32,8 +31,7 @@
     "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1704921154:KeyName=tsports-ed25519-01:Signature=aU70LMrevLGVwP6UPTOuCkhwpkvlEKafNDVhsfiYN7HC_kLMkhKsIUFFilix7npQT9BAFlXo18RsoJZKE_2xBQ",
     "drmScheme": "",
     "drmLicense": ""
-  }
-
+  },
   {
     "name": "Star Jalsha VIP",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/star_jalsha/playlist.m3u8",
