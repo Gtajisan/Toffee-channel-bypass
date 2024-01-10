@@ -1,11 +1,3 @@
-#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/contents/thumbnail/261/ts-live-02.jpeg", T Sports Live 2
-#EXTVLCOPT:http-user-agent=https://github.com/byte-capsule (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1704921154:KeyName=tsports-ed25519-01:Signature=aU70LMrevLGVwP6UPTOuCkhwpkvlEKafNDVhsfiYN7HC_kLMkhKsIUFFilix7npQT9BAFlXo18RsoJZKE_2xBQ"}
-https://live-cdn.tsports.com/live-02/index.m3u8
-#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/contents/thumbnail/691/mobile_logo_LIVE(1)_64e4dd8e16430.jpg", T Sports Live 1
-#EXTVLCOPT:http-user-agent=https://github.com/byte-capsule (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1704921154:KeyName=tsports-ed25519-01:Signature=aU70LMrevLGVwP6UPTOuCkhwpkvlEKafNDVhsfiYN7HC_kLMkhKsIUFFilix7npQT9BAFlXo18RsoJZKE_2xBQ"}
-https://live-cdn.tsports.com/live-01/index.m3u8
 #EXTINF:-1 group-title="Popular TV Channels" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png", Zee Bangla
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1705020493:KeyName=prod_linear:Signature=w2ySD7Tkjctn-6eXtWhNB6RurGUaevzkgcHk9dkTWlfzrBSzyBPkcB6wVa7T5fpEgowY_QOb8cGpiL1Ru6TGCA"}
